@@ -1,0 +1,1 @@
+# plugins-no-image-link
